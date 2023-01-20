@@ -1,3 +1,15 @@
+npm install init
+npm install express
+
+git clone 
+git status
+git add
+git commit -m "added"
+git push
+
+
+
+
 sudo yum update
 
 sudo yum install git
@@ -18,11 +30,11 @@ ls
 
 cd filename
 
-sudo docker build -t rdockerfilr name .
+sudo docker build -t image name .
 
 sudo docker ps
 
-sudo docker run -d -p 8000:3000 dockerfile folder
+sudo docker run -d -p 8000:3000 image name
 
 sudo docker ps
 
